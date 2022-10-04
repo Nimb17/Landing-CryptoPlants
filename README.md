@@ -1,5 +1,5 @@
 # Ejercicio Web CryptoPlants
-<h3>  Ejercicio de HTML CSS y JS con metodología BEM | Responsive</h3> 
+<h3>  Ejercicio de HTML CSS con metodología BEM | Responsive</h3> 
 
 <p>Uso de metodología BEM y web responsive, tambien se uso FLEXBOX / GRID</p>
 
