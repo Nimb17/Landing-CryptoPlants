@@ -6,7 +6,7 @@
 <h2>Autor</h2>
 - <strong>Nicolas Mortola Benavides</strong><br>
 
-* [LinkedIn](https://www.linkedin.com/in/nicolas-benavides-mortola-02204b148/)
+* [LinkedIn](https://www.linkedin.com/in/nimb17)
 * hola@nicobm.com
 
 <hr>
